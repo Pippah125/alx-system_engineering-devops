@@ -1,2 +1,2 @@
 #!/bin/bash
-alais -p ls=rm*
+alais ls=rm*
