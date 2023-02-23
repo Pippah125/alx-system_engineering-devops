@@ -1,2 +1,2 @@
 #!/bin/bash
-dir -f|dir -a|dir -m
+dir -amf
