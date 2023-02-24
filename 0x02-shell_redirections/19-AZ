@@ -1,2 +1,2 @@
 #!/bin/bash 
-sort|tr *A [Z] *c[e]
+cat|tr [*A] [Z]  [*c] [e]
